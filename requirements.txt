@@ -8,7 +8,7 @@ certifi==2018.1.18
 cffi==1.11.5
 chardet==3.0.4
 click==6.7
-cryptography==2.2.2
+cryptography==3.2
 decorator==4.2.1
 eth-tester[pyethereum21]==0.1.0b26
 factory-boy==2.10.0
