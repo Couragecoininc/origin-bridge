@@ -14,7 +14,7 @@ eth-tester[pyethereum21]==0.1.0b26
 factory-boy==2.10.0
 fixture==1.5.11
 Flask==0.12.2
-flask-cors==3.0.4
+flask-cors==3.0.9
 Flask-Migrate==2.1.1
 Flask-RESTful==0.3.6
 Flask-Restless==0.17.0
