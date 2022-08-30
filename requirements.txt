@@ -70,7 +70,7 @@ traitlets==4.3.2
 urllib3==1.22
 waitress==1.1.0
 wcwidth==0.1.7
-eth-account==0.2.2
+eth-account==0.5.9
 web3==4.2.0
 Werkzeug==0.14.1
 apns2==0.4.0
